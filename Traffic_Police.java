@@ -1,6 +1,6 @@
 public class Traffic_Police {
     public static void main(String[] args){
-        //IF_ELSE statement
+        //IF_ELSE_IF statement
         String signal="red";
         String msg;
         if(signal.equals("red")){
