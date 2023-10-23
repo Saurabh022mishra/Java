@@ -33,7 +33,7 @@ public class Array_1 {
         }
 
         System.out.println(high + " " + low);
-        sc.close();
+    sc.close();
     }
     
 }
