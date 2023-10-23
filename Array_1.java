@@ -2,9 +2,6 @@
 import java.util.Scanner;
 
 public class Array_1 {
-    public Array_1() {
-    }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Size of array : ");
@@ -36,5 +33,7 @@ public class Array_1 {
         }
 
         System.out.println(high + " " + low);
+        sc.close();
     }
+    
 }
